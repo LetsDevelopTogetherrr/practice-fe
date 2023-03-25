@@ -1,0 +1,2 @@
+# CreateNextApp
+Origin Setting
